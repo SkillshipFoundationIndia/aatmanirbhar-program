@@ -1,2 +1,4 @@
 # aatmanirbhar-program
-3 Months Mentor-ship Program in Respective domain
+3 Months Mentor-ship Program in Respective domain (DATA SCIENCE, MACHINE LEARNING, PYTHON, COMPETITVE CODING)
+
+# EVERY MENTOR NAME FILE HAS BEEN CREATED UPDATE YOUR WORKING TRACKS 
