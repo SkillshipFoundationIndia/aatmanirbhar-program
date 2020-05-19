@@ -1,6 +1,24 @@
 Work flow for week 1 and Week 2
 
+Setting Up the Environment: 
+Anaconda Distribution for python by following steps from the link given below:
+
+1)For Windows users:
+Windows Installation : https://www.anaconda.com/distribution
+
+2)For Ubuntu users:
+
+Ubuntu Installation : https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
+
+3)For Mac OS users:
+Mac OS Installation : https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x
+
+
+(PS: Python 3.7 version is preferable)
+
 Make Sure you make notes! Making Notes are one of the most efficient form of learning.
+We'll be using Jupyter notebook throughout this course. https://www.youtube.com/watch?v=CwFq3YDU6_Y Watch this for better understanding.
+
 WEEK 1:
 Enroll for free into "Python for Data Science and AI" 
 
