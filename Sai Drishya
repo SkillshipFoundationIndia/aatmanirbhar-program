@@ -1,1 +1,124 @@
 Work flow for week 1 and week 2
+
+WEEK 1- ARRAYS AND SEARCHING(LINEAR AND BINARY SEARCH)
+
+DAY 1- WHAT ARE ARRAYS, HOW TO INPUT USER DATA IN THEM AND FIND SUM. WHAT IS SEARCHING AND WHY IS IT IMPORTANT.
+   taks:
+   1) https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+   2) https://practice.geeksforgeeks.org/problems/missing-number/0
+   3) https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+   
+DAY 2- BINARY SEARCH , 2D ARRAYS
+   tasks:
+   1) https://practice.geeksforgeeks.org/problems/who-will-win/0
+   2) https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+   
+DAY 3- MORE PROBLEMS ON ARRAYS
+   tasks:
+   https://practice.geeksforgeeks.org/problems/two-repeated-elements/0
+   https://practice.geeksforgeeks.org/problems/make-a-distinct-digit-array/0
+   https://leetcode.com/problems/transpose-matrix/description/
+   https://leetcode.com/problems/find-lucky-integer-in-an-array/
+   https://leetcode.com/problems/toeplitz-matrix/
+   
+ DAY 4-  ------BREAK--------
+ 
+ DAY 5- BINARY SEARCH PROBLEMS
+   tasks:
+   https://leetcode.com/problems/intersection-of-two-arrays/
+   https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+   https://leetcode.com/problems/first-bad-version/
+   https://leetcode.com/problems/search-insert-position/
+ 
+ DAY 6 - ARRAY ROTATING AND OTHER ARRAY PROBLEMS
+   tasks:
+   https://leetcode.com/problems/rotate-array/
+   given an array example ar= { 1,2,3,4,5} of size n
+   and q set of queries and x for each q. Queries can be of two types 
+   1 - left rotate array by x times
+   2 - right rotate array by x times
+   return the array after perfroming q set of queries
+   
+   Sample case 1:
+   ar = { 4,7,9,0,4}
+   q=3
+   1 3
+   2 8
+   1 9
+   2 2
+   1 2
+   Ans : {4,4,7,9,0}
+   https://leetcode.com/problems/search-in-rotated-sorted-array/
+   
+   DAY 7
+   https://leetcode.com/problems/k-diff-pairs-in-an-array/
+   https://leetcode.com/problems/create-target-array-in-the-given-order/
+   https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+   
+   Bonus 
+   https://leetcode.com/problems/flipping-an-image/description/
+   
+LEARNING RESOURCES:
+https://www.codeproject.com/Questions/5261969/Binary-search-with-duplicates-in-a-sorted-array
+https://www.youtube.com/watch?v=pLT_9jwaPLs
+https://www.youtube.com/watch?v=QdVrY3stDD4
+   
+   
+WEEK 2 - MATH, STRINGS
+
+DAY 1- BASIC MATH
+tasks:
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+https://leetcode.com/problems/self-dividing-numbers
+https://leetcode.com/problems/spiral-matrix/
+https://leetcode.com/problems/spiral-matrix-ii/
+
+DAY 2 - STRINGS (WHAT ARE STRINGS AND VARIOUS OPERATIONS ON THEM)
+https://leetcode.com/problems/defanging-an-ip-address/
+https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/password-1/
+
+DAY 3 - OVERVIEW OF ALL STRING LIBRARY FUNCTIONS AND STRING HASHING
+https://leetcode.com/problems/find-common-characters/
+https://leetcode.com/problems/permutation-in-string/ (SLIDING WINDOW)
+
+
+DAY 4- PATTERN SEARCHING (NAIVE AND KMP)
+https://www.geeksforgeeks.org/naive-algorithm-for-pattern-searching/
+https://practice.geeksforgeeks.org/problems/subsequence-matching/0
+https://leetcode.com/problems/longest-common-prefix/
+
+DAY 5 - LONGEST PALINDROMIC SUBTRING (NAIVE AND MANACHERS)
+https://leetcode.com/problems/longest-palindromic-substring/
+
+DAY 6- BREAK
+
+DAY 7- SOME MORE PROBLEMS
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+https://leetcode.com/problems/fizz-buzz/description/
+https://leetcode.com/problems/plus-one/description/
+https://leetcode.com/problems/excel-sheet-column-number/description/
+https://leetcode.com/problems/power-of-two/description/
+https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+
+
+https://leetcode.com/problems/rectangle-overlap/ --> bonus
+https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/largest-balanced-string-bf93ce85/
+-->bonus
+
+
+
+
+LEARNING RESOURCES
+https://www.youtube.com/watch?v=1ZGJzvkcLsA
+https://www.youtube.com/watch?v=NO1zLdOwgR0
+https://www.youtube.com/watch?v=V5-7GzOfADQ
+https://medium.com/hackernoon/manachers-algorithm-explained-longest-palindromic-substring-22cb27a5e96f
+   
+   
+   
+   
+   
+ 
+   
