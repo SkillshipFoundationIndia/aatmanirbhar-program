@@ -18,6 +18,7 @@ Work flow:
  
  Day6 & Day 7: Problem Solving of covered concepts
  
+ 
  Week 2:
  
  Day 1, 2, 3: basics of procedural programming
@@ -40,3 +41,52 @@ as%20its%20architecture%20and%20environment.
 https://numpy.org/devdocs/user/quickstart.html
 https://www.youtube.com/watch?v=8JfDAm9y_7s&t=2s
 https://www.youtube.com/watch?v=Rbh1rieb3zc
+
+
+Week 4:
+
+Pandas
+https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+https://pandas.pydata.org/
+https://www.youtube.com/watch?v=RhEjmHeDNoA
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+https://www.tutorialspoint.com/python_pandas/index.htm
+
+
+Week 5: (28/06 to 04/07)
+
+Matplotlib
+https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+https://www.youtube.com/watch?v=yZTBMMdPOww
+https://matplotlib.org/users/pyplot_tutorial.html
+https://realpython.com/python-matplotlib-guide/
+
+Seaborn
+https://www.youtube.com/watch?v=TLdXM0A7SR8
+https://www.datacamp.com/community/tutorials/seaborn-python-tutorial?utm_source=adwords_ppc&utm_campaignid=10267161064&utm_adgroupid=102842301792&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377092&utm_targetid=aud-299261629614:dsa-473406580275&utm_loc_interest_ms=&utm_loc_physical_ms=1007783&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJNRKBfr8DHNawViBLjEq0JmwUmfpMjxydPRxeB90TB7vbGO0JDuKYaAhcSEALw_wcB
+https://seaborn.pydata.org/tutorial.html
+
+Material for this week is intentionally give less so Complete all assignments upto week 4(Pandas).
+This week's assignment will be taken in next week. 
+I want everyone to complete all the course material given and submit all pending assignments from week 1 to week 4 by 4th of july.
+
+
+
+Week 6 (05/07 to 11/07)
+
+Scikit learn
+https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+https://www.youtube.com/watch?v=0Lt9w-BxKFQ
+https://www.youtube.com/watch?v=bwZ3Qiuj3i8
+
+Scipy
+https://www.youtube.com/watch?v=k8s-R3csOt0
+https://www.youtube.com/watch?v=k8s-R3csOt0&t=21s
+https://docs.scipy.org/doc/scipy/reference/tutorial/
+
+EDA
+https://en.wikipedia.org/wiki/Exploratory_data_analysis
+https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9
+https://www.youtube.com/watch?v=-o3AxdVcUtQ
+
+Short Assignment on Week 5 & Week 6 will be given.
